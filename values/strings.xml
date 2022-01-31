@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW02</string>
+    <string name="View">View tasks</string>
+    <string name="create">Create Task</string>
+    <string name="task">You have 0 tasks</string>
+    <string name="upcoming">Upcoming Task</string>
+</resources>
