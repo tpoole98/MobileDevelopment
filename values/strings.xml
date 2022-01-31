@@ -4,4 +4,13 @@
     <string name="create">Create Task</string>
     <string name="task">You have 0 tasks</string>
     <string name="upcoming">Upcoming Task</string>
+    <string name="name">Name:</string>
+    <string name="date">Date:</string>
+    <string name="priority">Priority:</string>
+    <string name="cancel">Cancel</string>
+    <string name="high">High</string>
+    <string name="med">Medium</string>
+    <string name="low">Low</string>
+    <string name="setDate">Set Date</string>
+    <string name="submit">Submit</string>
 </resources>
