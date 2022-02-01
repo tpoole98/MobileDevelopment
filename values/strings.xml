@@ -13,4 +13,6 @@
     <string name="low">Low</string>
     <string name="setDate">Set Date</string>
     <string name="submit">Submit</string>
+    <string name="tInfo">Task Information</string>
+    <string name="delete">Delete</string>
 </resources>
